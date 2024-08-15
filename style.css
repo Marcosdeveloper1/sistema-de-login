@@ -32,6 +32,3 @@ esse comando seleciona todos os elementos do html para ter uma configuração gl
 .blocoPadrao{
     background-color: #023e8a;
 }
-h1 > .blocoPadrao{
-    background-color: aqua;
-}
