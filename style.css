@@ -29,6 +29,11 @@ esse comando seleciona todos os elementos do html para ter uma configuração gl
     padding: 0px;
 }
 
+.front{
+    background-color: #023e8a;
+    color: aliceblue;
+
+}
 body{
     background-color: white;
     font-family:var(--font-padrao);
