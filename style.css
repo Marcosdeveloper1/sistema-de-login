@@ -42,7 +42,8 @@ a > img{
 }
 /*configurando o cabeçalho = header e o menu*/
 header{
-    background-image: linear-gradient(to bottom, var(--cor2), black); /* Código para usar degradê*/
+    /* background-image: linear-gradient(to bottom, var(--cor2), black); Código para usar degradê */
+    background-color: black;
     min-height: 150px;
     text-align: center;
     font-size: 25px;
